@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente trabajo en [Universidad Galileo](https://informatica.galileo.edu/)
 
-- 🌱 Actualmente estoy aprendiendo **React, ReactNative, Python & DJANGO**
+- 🌱 Actualmente estoy aprendiendo **React, ReactNative, Dart, Flutter, Python & DJANGO**
 
 - Estoy colaborando en proyectos como [Eventos Galileo](https://eventos.galileo.edu/)
 
