@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente trabajo en [Universidad Galileo](https://informatica.galileo.edu/)
 
-- 🌱 Actualmente estoy aprendiendo **React, ReactNative, Dart, Flutter, Python & DJANGO**
+- 🌱 Actualmente estoy aprendiendo **NEXT.JS, ASTRO, FastAPI, Flask, Dart, Flutter, Python & DJANGO**
 
 - Estoy colaborando en proyectos como [Eventos Galileo](https://eventos.galileo.edu/)
 
@@ -19,7 +19,7 @@
 
 - 📫 Contáctame **manuel.altersantos@gmail.com**
 
-- 📄 Conoce mis experiencias [Tengo 6 años de experiencia en el desarrollo web, he trabajado con varias tecnologías tanto de backend y frontend, como: PHP (Laravel & Lumen) y Javascript (Vanilla, Vue & Angular), me gusta mucho crear interfaces útiles y sencillas para los usuarios, además de brindar una experiencia de uso única y sencilla. Me gusta mucho el diseño web, tengo conocimientos en CSS y SASS.](Tengo 6 años de experiencia en el desarrollo web, he trabajado con varias tecnologías tanto de backend y frontend, como: PHP (Laravel & Lumen) y Javascript (Vanilla, Vue & Angular), me gusta mucho crear interfaces útiles y sencillas para los usuarios, además de brindar una experiencia de uso única y sencilla. Me gusta mucho el diseño web, tengo conocimientos en CSS y SASS. Tengo conocimientos amplios en bases de datos relacionales como ORACLE, MYSQL, POSTGRES y SQLSERVER.)
+- 📄 Conoce mis experiencias (Tengo 6 años de experiencia en el desarrollo web, he trabajado con varias tecnologías tanto de backend y frontend, como: PHP (Laravel & Lumen) y Javascript (Vanilla, Vue & Angular), me gusta mucho crear interfaces útiles y sencillas para los usuarios, además de brindar una experiencia de uso única y sencilla. Me gusta mucho el diseño web, tengo conocimientos en CSS y SASS. Tengo conocimientos amplios en bases de datos relacionales como ORACLE, MYSQL, POSTGRES y SQLSERVER.)
 
 - ⚡ **Soy un amante de los videojuegos y en mis tiempos libres busco siempre implementar alguna idea en mi lenguaje favorito que es JavaScript**
 
