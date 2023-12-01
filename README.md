@@ -25,7 +25,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/msaints_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msaints_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manuelsantosgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelsantosgt" height="30" width="40" /></a>
 <a href="https://discord.gg/msaints_10#0200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="msaints_10#0200" height="30" width="40" /></a>
 </p>
