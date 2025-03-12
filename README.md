@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente trabajo en [Universidad Galileo](https://informatica.galileo.edu/)
 
-- 🌱 Actualmente estoy aprendiendo **NEXT.JS, ASTRO, FastAPI, Flask, Dart, Flutter, Python & DJANGO**
+- 🌱 Actualmente estoy aprendiendo **Astro, React, React-Native**
 
 - Estoy colaborando en proyectos como [Eventos Galileo](https://eventos.galileo.edu/)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponible en [... próximamente](... próximamente)
 
-- 💬 Pregúntame sobre **Vue, Javascript, C#, ASP.NET, NODE.JS**
+- 💬 Pregúntame sobre **Vue, Javascript, C#, ASP.NET, NODE.JS, Python**
 
 - 📫 Contáctame **manuel.altersantos@gmail.com**
 
