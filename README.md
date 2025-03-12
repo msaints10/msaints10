@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaints10&label=Profile%20views&color=0e75b6&style=flat" alt="msaints10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/msaints_" target="blank"><img src="https://img.shields.io/twitter/follow/msaints_?logo=twitter&style=for-the-badge" alt="msaints_" /></a> </p>
-
 - 🔭 Actualmente trabajo en [Universidad Galileo](https://informatica.galileo.edu/)
 
 - 🌱 Actualmente estoy aprendiendo **Astro, React, React-Native**
