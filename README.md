@@ -18,17 +18,13 @@ Me apasiona construir productos digitales que resuelvan problemas reales y ofrez
 
 ## Certificaciones
 🐍 **[Information Technology Specialist in Python](https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=469&cvid=xWsSBDHuG3O7BQbaxtK3EQ==)** - Certiport
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="155b5808-1072-46ba-90bf-83f02b6f102f" data-share-badge-host="https://www.credly.com"></div>
 
 💛 **[Information Technology Specialist in JavaScript](https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=469&cvid=xWsSBDHuG3O7BQbaxtK3EQ==)** - Certiport
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ad5b34da-f112-4b88-b7d9-cf9325aef162" data-share-badge-host="https://www.credly.com"></div>
-
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Actualmente
 🔭 Trabajo en [Universidad Galileo](https://informatica.galileo.edu/) liderando y colaborando en proyectos institucionales.
 🌱 Profundizando en **React Native** para desarrollo móvil multiplataforma.
-� Aprendiendo sobre **MCP (Model Context Protocol)**, **IA** y desarrollo de **aplicaciones con inteligencia artificial**.
+👀 Aprendiendo sobre **MCP (Model Context Protocol)**, **IA** y desarrollo de **aplicaciones con inteligencia artificial**.
 💻 Manteniendo proyectos activos en JavaScript mientras exploro nuevas tecnologías.
 🎯 Liderando: [Forms Galileo](https://forms.galileo.edu/) y [Eventos Galileo](https://eventos.galileo.edu/)
 
