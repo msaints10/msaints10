@@ -1,37 +1,79 @@
-<h1 align="center">Hola 👋, Soy Manuel Santos</h1>
-<h3 align="center">Soy un Desarrollador Full Stack de Guatemala</h3>
+# Hola, soy Manuel Santos 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msaints10&label=Profile%20views&color=0e75b6&style=flat" alt="msaints10" /> </p>
+### Desarrollador Full Stack | Guatemala
 
-- 🔭 Actualmente trabajo en [Universidad Galileo](https://informatica.galileo.edu/)
+Me apasiona construir productos digitales que resuelvan problemas reales y ofrezcan experiencias memorables. Disfruto colaborar con equipos multidisciplinarios y transformar ideas en soluciones funcionales, accesibles y bien diseñadas.
 
-- 🌱 Actualmente estoy aprendiendo **Astro, React, React-Native**
+## Sobre mí
+🎓 Estudiante de Ingeniería en Sistemas en Universidad Galileo con 8 años creando aplicaciones web y móviles (desde 2017).
+💡 Experiencia en el ciclo completo de desarrollo: ideación, diseño, backend, frontend y despliegue.
+🎯 Interés especial en la arquitectura limpia, la experiencia de usuario, IA y la automatización de procesos.
+🌍 Lidero y colaboro en proyectos institucionales en Universidad Galileo.
+🌐 Explora mi trabajo en [manuelsantos.dev](https://www.manuelsantos.dev/)
 
-- Estoy colaborando en proyectos como [Eventos Galileo](https://eventos.galileo.edu/)
+## Educación
+🎓 **Ingeniería de Sistemas** - Universidad Galileo (En curso)
+📜 **Técnico en Desarrollo de Software** - Universidad Galileo
+🎨 **Diplomado en Diseño de Páginas Web** - Universidad Galileo
 
-- Proyectos de Educación [Forms Galileo](https://forms.galileo.edu/)
+## Certificaciones
+🐍 **[Information Technology Specialist in Python](https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=469&cvid=xWsSBDHuG3O7BQbaxtK3EQ==)** - Certiport
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="155b5808-1072-46ba-90bf-83f02b6f102f" data-share-badge-host="https://www.credly.com"></div>
 
-- 👨‍💻 Todos mis proyectos están disponible en [... próximamente](... próximamente)
+💛 **[Information Technology Specialist in JavaScript](https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=469&cvid=xWsSBDHuG3O7BQbaxtK3EQ==)** - Certiport
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ad5b34da-f112-4b88-b7d9-cf9325aef162" data-share-badge-host="https://www.credly.com"></div>
 
-- 💬 Pregúntame sobre **Vue, Javascript, C#, ASP.NET, NODE.JS, Python**
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-- 📫 Contáctame **manuel.altersantos@gmail.com**
+## Actualmente
+🔭 Trabajo en [Universidad Galileo](https://informatica.galileo.edu/) liderando y colaborando en proyectos institucionales.
+🌱 Profundizando en **React Native** para desarrollo móvil multiplataforma.
+� Aprendiendo sobre **MCP (Model Context Protocol)**, **IA** y desarrollo de **aplicaciones con inteligencia artificial**.
+💻 Manteniendo proyectos activos en JavaScript mientras exploro nuevas tecnologías.
+🎯 Liderando: [Forms Galileo](https://forms.galileo.edu/) y [Eventos Galileo](https://eventos.galileo.edu/)
 
-- 📄 Conoce mis experiencias (Tengo 6 años de experiencia en el desarrollo web, he trabajado con varias tecnologías tanto de backend y frontend, como: PHP (Laravel & Lumen) y Javascript (Vanilla, Vue & Angular), me gusta mucho crear interfaces útiles y sencillas para los usuarios, además de brindar una experiencia de uso única y sencilla. Me gusta mucho el diseño web, tengo conocimientos en CSS y SASS. Tengo conocimientos amplios en bases de datos relacionales como ORACLE, MYSQL, POSTGRES y SQLSERVER.)
+## Experiencia destacada
+ Desarrollo de plataformas académicas y herramientas internas para universidades.
+ Implementación de interfaces intuitivas con **Vue**, **React** y **Angular**.
+ Creación de APIs robustas con **Node.js (Express, NestJS)**, **Python (Django, FastAPI, Flask)**, **ASP.NET Core** y **PHP (Laravel/Lumen)**.
+ Integración de sistemas con bases de datos **Oracle**, **MySQL**, **PostgreSQL** y **SQL Server**.
 
-- ⚡ **Soy un amante de los videojuegos y en mis tiempos libres busco siempre implementar alguna idea en mi lenguaje favorito que es JavaScript**
+## Stack principal
+**Frontend**
+ JavaScript (ES6), TypeScript
+ Vue, React, Astro, Angular
+ HTML5, CSS3, SASS, Tailwind CSS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manuelsantosgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelsantosgt" height="30" width="40" /></a>
-<a href="https://discord.gg/msaints_10#0200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="msaints_10#0200" height="30" width="40" /></a>
-</p>
+**Backend**
+ Node.js (Express, NestJS)
+ Python (Django, FastAPI, Flask)
+ C# con ASP.NET Core
+ PHP con Laravel y Lumen
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**DevOps & Herramientas**
+ GitHub Actions, Docker, CI/CD
+ Azure, Vercel, Netlify
+ Diseño con Figma y principios de UX/UI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msaints10&show_icons=true&locale=en&layout=compact" alt="msaints10" /></p>
+## Proyectos destacados
+🌐 **[manuelsantos.dev](https://www.manuelsantos.dev/)** – Mi portafolio personal con proyectos y casos de estudio.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msaints10&show_icons=true&locale=en" alt="msaints10" /></p>
+### Proyectos Institucionales - Universidad Galileo
+📝 **[Forms Galileo](https://forms.galileo.edu/)** – Plataforma de formularios dinámicos para procesos académicos y administrativos. Lidero el desarrollo y mantenimiento.
+📅 **[Eventos Galileo](https://eventos.galileo.edu/)** – Sistema integral de registro, gestión y seguimiento de eventos universitarios. Colaboro en su desarrollo continuo.
+📚 **Material educativo** – Contenido y talleres sobre desarrollo web y buenas prácticas.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msaints10&" alt="msaints10" /></p>
+## Cómo puedo ayudarte
+ Consultorías de arquitectura y modernización de aplicaciones.
+ Diseño e implementación de interfaces accesibles y centradas en el usuario.
+ Mentorías para equipos que desean adoptar JavaScript moderno o frameworks frontend.
+
+## Contáctame
+🌐 **[manuelsantos.dev](https://www.manuelsantos.dev/)**
+✉️ **msantosgt.dev@gmail.com**
+💼 [LinkedIn](https://www.linkedin.com/in/manuelsantosgt/)
+💬 Discord: **msaints_10#0200**
+
+## Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=msaints10&show_icons=true&theme=tokyonight&hide_title=true)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=msaints10&theme=tokyonight&hide_border=true)
